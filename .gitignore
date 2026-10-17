@@ -1,6 +1,0 @@
-__pycache__/
-*.py[cod]
-~$*.docx
-.env
-venv/
-.venv/
